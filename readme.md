@@ -4,7 +4,7 @@
 
 By Dr. Angela Yu
 
-Day 31 of 100: Flashcard App Capstone Project
+*Day 31 of 100:* Flashcard App Capstone Project
 
 ## Project Specs
 
