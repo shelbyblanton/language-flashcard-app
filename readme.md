@@ -19,7 +19,7 @@ This application is written with Python 3.11.
 ### Main Features
 The application displays a word in Portuguese for 3 seconds before it reveals the english translation. 
 
-If a user guess the word correctly, they click on the green checkmark to remove the word from card deck rotation. If they guessed incorrectly, they click on the red 'X' and the word remains in the card deck rotation.  
+If a user guesses the word correctly, they click on the green checkmark to remove the word from card deck rotation. If they guessed incorrectly, they click on the red 'X' and the word remains in the card deck rotation.  
 
 ## Usage & Requirements
 
