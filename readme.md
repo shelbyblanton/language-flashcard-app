@@ -77,7 +77,7 @@ First, clone the repository from Github and switch to the new directory:
     
 Then open the project in PyCharm.
     
-In the `main.py` file, click on the word `pandas` in the import statement at the top of the page. Then click on the red exlamation point and click `Install Package Pandas` to load the library:
+In the `main.py` file, click on the word `pandas` in the import statement at the top of the page. Then click on the red exclamation point and click `Install Package Pandas` to load the library:
 
 ![alt text](https://github-readme.s3.us-west-1.amazonaws.com/Install-Pandas.png)
 
