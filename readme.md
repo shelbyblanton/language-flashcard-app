@@ -38,7 +38,7 @@ except FileNotFoundError:
     word_data = pandas.read_csv("data/portuguese_words.csv")
     to_learn = word_data.to_dict(orient="records")
 else:
-    to_learn = word_data.to_dict(orient="records")```
+    to_learn = word_data.to_dict(orient="records")
 ```
 
 TkInter is used to create the application canvas, store button actions, and run the card flip timer:
